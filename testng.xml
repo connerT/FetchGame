@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="ClinicalTestsQA">
+        <classes>
+            <class name="com.Local.Tests.FetchExerciseTests"/>
+        </classes>
+    </test>
+</suite>
+
